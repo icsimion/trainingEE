@@ -1,0 +1,20 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.training</groupId>
+	<artifactId>trainingEE-webapp</artifactId>
+	<packaging>war</packaging>
+	<name>trainingEE-webapp</name>
+	<parent>
+		<groupId>com.training</groupId>
+		<artifactId>trainingEE</artifactId>
+		<version>1.0</version>
+	</parent>
+	<dependencies>
+		<dependency>
+			<groupId>com.training</groupId>
+			<artifactId>trainingEE-api</artifactId>
+			<version>1.0</version>
+		</dependency>
+
+	</dependencies>
+</project>
